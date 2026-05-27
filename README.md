@@ -88,10 +88,10 @@ Actualmente enfocado en:
 
 - 🧩 APIs REST profesionales
 - 🔐 Laravel Sanctum Authentication
-- ⚡ Arquitectura Backend
+- ⚡ Arquitectura Front y Backend
 - ⚛️ React.js
 - 🎮 Desarrollo Web 3D
-- 📊 Power BI y análisis de datos
+- 📊 Power BI y Análisis de Datos
 - 🐳 Docker
 - ☁️ Deploy y servidores Linux
 
@@ -144,7 +144,7 @@ Actualmente enfocado en:
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wicho1965&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=wicho1965&theme=react-dark" />
 </p>
 
 ---
