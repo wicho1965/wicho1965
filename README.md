@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Luis Rodríguez</h1>
 
 <h3 align="center">
-💻 Backend Developer en formación | Laravel • APIs REST • SQL • Power BI
+💻 Front and Backend Developer en formación | HTML • CSS • JavaScript • PHP • Laravel • PYTHON • APIs REST • CRUD • SQL • Power BI
 </h3>
 
 <p align="center">
@@ -18,16 +18,16 @@
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador autodidacta apasionado por la tecnología, el desarrollo backend y la creación de APIs limpias y escalables.
+Soy un estudiante autodidacta apasionado por la tecnología, el desarrollo fullstack y la creación de APIs limpias y escalables.
 
 Actualmente enfocado en:
 
 - 💻 Desarrollo Backend con Laravel
 - 🔥 Creación de CRUDs y APIs REST
-- 📊 Bases de Datos y análisis de datos
+- 📊 Bases de Datos y Análisis de Datos
 - 🌐 Desarrollo Frontend moderno
 - 🎮 Desarrollo Web 3D con Three.js y WebGL
-- 📈 Visualización de datos con Power BI
+- 📈 Visualización de Datos con Power BI
 - 🧠 Buenas prácticas y código limpio
 
 ---
@@ -50,7 +50,7 @@ Actualmente enfocado en:
 
 ## 🌐 Actualmente Aprendiendo
 
-- 🧩 APIs REST profesionales
+- 🧩 CRUDs - APIs REST profesionales
 - 🔐 Laravel Sanctum Authentication
 - ⚡ Arquitectura Backend
 - 🎨 Frontend moderno con React
@@ -100,29 +100,3 @@ Actualmente enfocado en:
 <p align="center">
 🚀 “La práctica diaria y la curiosidad son el camino del aprendizaje.”
 </p>
-font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Autodidacta+en+constante+aprendizaje;Laravel+%7C+CRUDs+%7C+APIs+REST;HTML5+%7C+CSS3+%7C+JavaScript+%7C+PHP+%7C+Python;Bases+de+Datos+%7C+MySQL+%7C+Power+BI;Frontend+Moderno+con+React;Desarrollo+Web+3D+con+Three.js+y+WebGL;Codigo+limpio+y+buenas+practicas" />
-</p>
-
----
-
-<!-- ======================= -->
-<!--        ABOUT ME         -->
-<!-- ======================= -->
-
-# 🧠 Sobre mí
-
-Soy un desarrollador autodidacta apasionado por la tecnología, el desarrollo backend y la construcción de aplicaciones modernas.
-
-Actualmente enfocado en:
-
-- 💻 Desarrollo Backend con Laravel
-- 🔥 Creación de CRUDs y APIs REST
-- 🔐 Autenticación con Laravel Sanctum
-- 📊 Bases de Datos y análisis de datos
-- 🌐 Frontend moderno con React
-- 🎮 Desarrollo Web 3D con Three.js y WebGL
-- 📈 Dashboards y visualización con Power BI
-- 🧠 Buenas prácticas y código limpio
-- 🚀 Aprendizaje continuo todos los días
-
----
