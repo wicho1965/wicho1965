@@ -1,12 +1,11 @@
 <h1 align="center">👋 Hola, soy Luis Rodríguez</h1>
-<h3 align="center">Autodidacta | Amante del Aprendizaje</h3>
+<h3 align="center">Autodidacta | Entuciasta en el Aprendizaje de Programacion</h3>
 
 <p align="center">
-  🚀 Apasionado por crear Paginas WEB, CRUDs, APIs limpias, seguras y escalables  
-</p>
+  🚀 Apasionado por crear Paginas WEB, CRUDs, APIs Limpias, Seguras y Escalables </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Autodidacta+muy+motivado;Backend+con+Laravel+%26+APIs+REST;Aprendiendo+HTML%2C+CSS%2C+Python+y+3D+Web;Analista+de+Bases+de+Datos+%26+Power+BI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Soy+Autodidacta+motivado+en+aprender+HTML5+CSS3+JavaScript+Python;Full+Stack+con+Laravel+%26+APIs+REST+REACT;Desarrollar+3D+Paginas+Web;Analista+de+Bases+de+Datos+%26+Power+BI"/>
 </p>
 
 <p align="center">
