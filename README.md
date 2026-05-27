@@ -1,5 +1,6 @@
+```md
 <!-- ======================= -->
-<!--        BANNER           -->
+<!--        HEADER           -->
 <!-- ======================= -->
 
 <h1 align="center">👋 Hola, soy Luis Rodríguez</h1>
@@ -91,7 +92,7 @@ Actualmente enfocado en:
 - ⚡ Arquitectura Front y Backend
 - ⚛️ React.js
 - 🎮 Desarrollo Web 3D
-- 📊 Power BI y Análisis de Datos
+- 📊 Power BI y análisis de datos
 - 🐳 Docker
 - ☁️ Deploy y servidores Linux
 
@@ -132,7 +133,7 @@ Actualmente enfocado en:
 # 📈 Actividad GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wicho1965&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=wicho1965&theme=react-dark" />
 </p>
 
 ---
@@ -144,7 +145,7 @@ Actualmente enfocado en:
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=wicho1965&theme=react-dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wicho1965&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -156,6 +157,7 @@ Actualmente enfocado en:
 # 🚀 Proyectos Destacados
 
 ## 🔥 Laravel API CRUD
+
 ✔ CRUD completo con Laravel 13  
 ✔ API REST profesional  
 ✔ Validaciones y migraciones  
@@ -165,6 +167,7 @@ Actualmente enfocado en:
 ---
 
 ## 🌐 Frontend Moderno
+
 ✔ HTML5  
 ✔ CSS3  
 ✔ JavaScript  
@@ -173,6 +176,7 @@ Actualmente enfocado en:
 ---
 
 ## 📊 Power BI y Datos
+
 ✔ Dashboards interactivos  
 ✔ Visualización de datos  
 ✔ Reporting y análisis  
@@ -180,6 +184,7 @@ Actualmente enfocado en:
 ---
 
 ## 🎮 Desarrollo Web 3D
+
 ✔ Three.js  
 ✔ WebGL  
 ✔ Experiencias interactivas 3D  
@@ -229,6 +234,4 @@ Actualmente enfocado en:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>
 </p>
-
-⭐ Gracias por visitar mi perfil — autodidacta, motivado y en constante evolución 🚀
-⭐ *Si te gusta mi trabajo, no olvides dejar una estrella a los repos 😉*
+```
