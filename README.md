@@ -1,95 +1,100 @@
-<h1 align="center">👋 Hola, soy Luis Rodríguez</h1>
-
-<h3 align="center">
-💻 Front and Backend Developer en formación | HTML • CSS • JavaScript • PHP • Laravel • PYTHON • APIs REST • CRUD • SQL • Power BI
-</h3>
-
-<p align="center">
-🚀 Apasionado por el aprendizaje autodidacta y el desarrollo de aplicaciones web modernas
-</p>
-
----
+````md
+<!-- ====================================================== -->
+<!--                      BANNER                             -->
+<!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Autodidacta+en+constante+aprendizaje;Laravel+%7C+CRUDs+%7C+APIs+REST;HTML5+%7C+CSS3+%7C+JavaScript+%7C+PHP+%7C+Python;Bases+de+Datos+%7C+SQL+%7C+Power+BI;Desarrollo+Web+3D+con+Three.js+y+WebGL" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0f0f,50:00c6ff,100:8e2de2&text=Luis%20Rodríguez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Laravel%20•%20APIs%20REST%20•%20React%20•%20Three.js&descAlignY=60"/>
 </p>
 
 ---
 
-## 🧠 Sobre mí
-
-Soy un estudiante autodidacta apasionado por la tecnología, el desarrollo fullstack y la creación de APIs limpias y escalables.
-
-Actualmente enfocado en:
-
-- 💻 Desarrollo Backend con Laravel
-- 🔥 Creación de CRUDs y APIs REST
-- 📊 Bases de Datos y Análisis de Datos
-- 🌐 Desarrollo Frontend moderno
-- 🎮 Desarrollo Web 3D con Three.js y WebGL
-- 📈 Visualización de Datos con Power BI
-- 🧠 Buenas prácticas y código limpio
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-### 🚀 Lenguajes
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql" />
-</p>
-
-### ⚙️ Frameworks y Herramientas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,vscode,git,docker,postman" />
-</p>
-
----
-
-## 🌐 Actualmente Aprendiendo
-
-- 🧩 CRUDs - APIs REST profesionales
-- 🔐 Laravel Sanctum Authentication
-- ⚡ Arquitectura Backend
-- 🎨 Frontend moderno con React
-- 🧱 Desarrollo 3D con Three.js
-- 📊 Dashboards y análisis de datos
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">
+💻 Frontend & Backend Developer en formación
+</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wicho1965&show_icons=true&theme=radical&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wicho1965&layout=compact&theme=radical&hide_border=true" />
+🚀 Autodidacta apasionado por el desarrollo web moderno, APIs REST y tecnologías 3D
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+<!-- ====================================================== -->
+<!--                    TYPING EFFECT                        -->
+<!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=wicho1965&theme=radical&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Laravel+Developer;CRUDs+y+APIs+REST;HTML5+%7C+CSS3+%7C+JavaScript+%7C+PHP+%7C+Python;React+Frontend+Developer;Three.js+%7C+WebGL+%7C+3D+Web;Power+BI+%7C+SQL+%7C+Bases+de+Datos;Siempre+aprendiendo+nuevas+tecnologias" />
 </p>
 
 ---
 
-## 🚀 Objetivos
+# 🧠 Sobre mí
 
-✔ Convertirme en Full Stack Developer  
-✔ Construir proyectos reales y profesionales  
-✔ Aprender arquitecturas modernas  
-✔ Crear aplicaciones escalables y seguras  
-✔ Seguir creciendo cada día como autodidacta  
+```txt
+💡 Aprendiendo y construyendo proyectos reales cada día
+````
+
+* 💻 Backend con Laravel
+* 🔥 CRUDs y APIs REST
+* 🌐 Frontend moderno con React
+* 📊 SQL y análisis de datos
+* 🎮 Desarrollo Web 3D con Three.js
+* ⚡ Buenas prácticas y código limpio
+* 🧠 Aprendizaje autodidacta constante
 
 ---
 
-## 📫 Contacto
+# ⚙️ Stack Tecnológico
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,laravel,react,git,docker,vscode,postman&theme=dark"/>
+</p>
+
+---
+
+# 🚀 Actualmente Aprendiendo
+
+```yaml
+Backend:
+  - Laravel 13
+  - APIs REST
+  - Laravel Sanctum
+  - MySQL
+
+Frontend:
+  - React.js
+  - JavaScript Moderno
+  - UI Responsive
+
+3D:
+  - Three.js
+  - WebGL
+
+DevOps:
+  - Docker
+  - Linux
+```
+
+---
+
+# 🎯 Objetivos
+
+* ✔ Construir proyectos Full Stack reales
+* ✔ Crear aplicaciones modernas y escalables
+* ✔ Dominar Laravel + React
+* ✔ Aprender arquitecturas profesionales
+* ✔ Especializarme en desarrollo web moderno
+
+---
+
+# 📫 Contacto
+
+<p align="center">
 
 📧 **Email:** `lualroru65@gmail.com`
+
+</p>
 
 ---
 
@@ -100,3 +105,10 @@ Actualmente enfocado en:
 <p align="center">
 🚀 “La práctica diaria y la curiosidad son el camino del aprendizaje.”
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,50:00c6ff,100:0f0f0f&height=120&section=footer"/>
+</p>
+```
